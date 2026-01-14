@@ -1,0 +1,34 @@
+COMP2404A — Assignment 1 (HomeShare CRUD)
+
+Name: Mohamed Azab
+Student Number: 101331588
+
+------------------------------------------------------------
+Overview
+------------------------------------------------------------
+This assignment implements a simple backend system for a HomeShare-style
+reservation manager (similar to Airbnb). The system supports adding/removing
+rentals, adding/removing reservations, and printing rentals/reservations.
+All data is stored using statically allocated arrays (no dynamic memory).
+
+The program is tested using the provided Tester class and the menu in main.cc.
+
+------------------------------------------------------------
+Compilation Instructions
+------------------------------------------------------------
+To compile:
+
+  make clean
+  make
+
+------------------------------------------------------------
+Execution Instructions
+------------------------------------------------------------
+To run:
+
+  ./a1
+
+Then select one of the menu options (1–6).
+Option 6 runs all automated tests and displays the total score.
+
+
